@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2364414073.index
+\SpringMvcViewResolver\src\main\resources
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1037228366.index
+\ViewResolverXmlConfiguration\src\main\resources
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\923747627.index
+\SpringMvcXmlConfiguration\src\main\resources
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2983658688.index
+\ViewResolverJavaConfiguration\src\main\resources
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2251009990.index
+\ViewResolverJavaConfiguration\src\main\java
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\633703597.index
+\FirstModelView\src\main\java
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\112618417.index
+\ViewResolverXmlConfiguration\src\main\java
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2349157515.index
+\SpringMvcJavaConfiguration\src\main\resources
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1170895747.index
+\ViewResolverJavaConfiguration\src\main\java
+D:\JAVA\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261124292.index
+\SpringMvcViewResolver\src\main\resources

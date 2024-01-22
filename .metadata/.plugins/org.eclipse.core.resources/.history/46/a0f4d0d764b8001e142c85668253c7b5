@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<h2>click here</h2>
+<form action="click">
+<input type="number" palceholder="Enter number">
+<input type="number" placeholder="Enter number">
+<input type="submit" value="Next Page">
+</form>
+</body>
+</html>
